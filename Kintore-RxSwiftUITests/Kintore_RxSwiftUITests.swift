@@ -1,11 +1,3 @@
-//
-//  Kintore_RxSwiftUITests.swift
-//  Kintore-RxSwiftUITests
-//
-//  Created by t on 2020/05/06.
-//  Copyright © 2020 福本知伸. All rights reserved.
-//
-
 import XCTest
 
 class Kintore_RxSwiftUITests: XCTestCase {
